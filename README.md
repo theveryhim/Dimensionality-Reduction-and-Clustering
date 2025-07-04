@@ -1,4 +1,4 @@
-# MNIST
+# MNIST(Task1)
 - PCA and LDA analysis on MNIST dataset
 - Implement an Auto-encoder network
 - Clustering with K-means
@@ -23,7 +23,7 @@
 | 4                      | 0.265      |
 | 5                      | 0.460      |
 
-# Cove data-set
+# Cove data-set(Task2)
 
 Some of tasks done in this section which is part of a MDA assignment:
 - Using the PCA algorithm, choose the value of k in such a way that at least 90% of the variance of the samples is maintained
